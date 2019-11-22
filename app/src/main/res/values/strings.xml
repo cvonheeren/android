@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Taskinator</string>
+    <string name="nombre">Nombre</string>
+    <string name="contrasenia">Contraseña</string>
+    <string name="acceder">Acceder</string>
+    <string name="descripcci_n">Descripcción</string>
+    <string name="prioridad">Prioridad</string>
+    <string name="coste">Coste</string>
+    <string name="registrar">Registrar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="Urgente">Urgente</string>
+    <string name="Alta">Alta</string>
+    <string name="Media">Media</string>
+    <string name="Baja">Baja</string>
+    <string name="recordar_contrase_a">Recordar contraseña</string>
+    <string name="aviso1">No hay tareas guardadas aún</string>
+    <string name="aviso2">No se cargaron los datos de la tarea por algún error</string>
+    <string name="aviso3">Se cargaron los datos de la tarea</string>
+    <string name="hechas">Hechas</string>
+    <string name="pendientes">Pendientes</string>
+    <string name="editar_tarea">Editar tarea</string>
+    <string name="borrar_tarea">Borrar tarea</string>
+    <string name="preguntaBorrar">¿Está seguro de que quiere borrar la tarea?</string>
+    <string name="si">Sí</string>
+    <string name="borrado">Borrado</string>
+    <string name="noBorrado">La tarea no se ha borrado</string>
+    <string name="advertencia">Advertencia</string>
+    <string name="aniadirTarea">Añadir tarea</string>
+    <string name="verTarea">Ver tarea</string>
+    <string name="cerrarSesion">Cerrar sesión</string>
+    <string name="cambioPass">Cambio de contraseña</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="acercaDe">Hecho por CVH :)</string>
+    <string name="acerca_de">Acerca De</string>
+    <string name="contrase_a_antigua">Contraseña antigua</string>
+    <string name="contrase_a_nueva">Contraseña nueva</string>
+    <string name="repetir_contrase_a">Repetir contraseña</string>
+
+</resources>

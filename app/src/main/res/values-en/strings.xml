@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Taskinator</string>
+    <string name="acceder">Log In</string>
+    <string name="contrasenia">Password</string>
+    <string name="nombre">Name</string>
+    <string name="coste">Value</string>
+    <string name="prioridad">Priority</string>
+    <string name="descripcci_n">Description</string>
+    <string name="cancelar">Cancel</string>
+    <string name="registrar">Enter</string>
+    <string name="Alta">Hight</string>
+    <string name="Baja">Low</string>
+    <string name="Media">Medium</string>
+    <string name="Urgente">Urgent</string>
+    <string name="recordar_contrase_a">Remember password</string>
+    <string name="aviso1">Not task save yet</string>
+    <string name="aceptar">Ok</string>
+    <string name="acercaDe">Developed by CVH :)</string>
+    <string name="advertencia">Warning</string>
+    <string name="aniadirTarea">New task</string>
+    <string name="aviso2">Error: the task data are not loaded</string>
+    <string name="aviso3">The task data was loaded</string>
+    <string name="borrado">Deleted</string>
+    <string name="borrar_tarea">Delete task</string>
+    <string name="cambioPass">New password</string>
+    <string name="cerrarSesion">Log out</string>
+    <string name="editar_tarea">Edit task</string>
+    <string name="hechas">Done</string>
+    <string name="noBorrado">The task has not been deleted</string>
+    <string name="pendientes">To do</string>
+    <string name="preguntaBorrar">Are you sure you want to delete the task?</string>
+    <string name="si">Yes</string>
+    <string name="verTarea">Your tasks</string>
+    <string name="acerca_de">About Me</string>
+    <string name="contrase_a_antigua">Old password</string>
+    <string name="contrase_a_nueva">New password</string>
+    <string name="repetir_contrase_a">Repetir contraseña</string>
+</resources>
